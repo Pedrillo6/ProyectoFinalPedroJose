@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ae3b0a69cf0d6042a312ce0b3239e47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vida: {instanceID: 0}
+  - animadorPerder: {instanceID: 0}
+  - puntuacion: {instanceID: 0}
+  - musicaAmbiente: {instanceID: 0}
+  - musicaMunicion: {fileID: 8300000, guid: c610adb49e4b483488d038f55cef1c40, type: 3}
+  - musicaVida: {fileID: 8300000, guid: 016a0028a3c20644e86448a9b2bbfd1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
